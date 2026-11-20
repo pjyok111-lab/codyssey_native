@@ -8,3 +8,4 @@
 2. [시스템 설계 문서](docs/system-design.md): 과업 정의, 페르소나, 프롬프트, 예시, 검증 전략, 개선 이력
 3. [실행 로그](docs/run-log.md): 작업 기록과 10턴 이상의 대화 원문
 4. [미해결 기록](docs/unresolved.md): 프롬프트를 고쳐도 원하는 결과를 얻지 못한 과업
+5. [보너스 과제](docs/bonus.md): 시스템 프롬프트를 Claude 프로젝트로 배포한 기록, AI 응답으로 만든 요약 그림, Apps Script로 API 호출
